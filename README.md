@@ -1,10 +1,10 @@
 # HR Analytics Dashboard (Power BI)
 
-## 📊 Overview
+## Overview
 
 This project presents an interactive HR Analytics Dashboard built using Power BI to analyze workforce data and uncover insights related to employee distribution, attrition, salary trends, and workforce demographics.
 
-## 🔍 Key Insights
+## Key Insights
 
 * Research & Development has the highest number of employees and attrition
 * Employees working overtime show higher attrition rates
@@ -13,18 +13,18 @@ This project presents an interactive HR Analytics Dashboard built using Power BI
 * Majority of employees fall in the 30–40 age group
 * Salary increases steadily with years at the company
 
-## ⚙️ Tools Used
+## Tools Used
 
 * Power BI
 * DAX (Data Analysis Expressions)
 
-## 📁 Files Included
+## Files Included
 
 * `.pbix` file (Power BI dashboard)
 * Dashboard preview image
 * Dataset 
 
-## 🎯 Dashboard Features
+## Dashboard Features
 1. HR Overview Dashboard
    Employee distribution by department
    Gender-wise workforce split
@@ -43,6 +43,6 @@ This project presents an interactive HR Analytics Dashboard built using Power BI
    Salary trends over years at company
    Department-wise workforce breakdown
 
-## 🚀 How to Use
+## How to Use
 
 Download the `.pbix` file and open it in Power BI Desktop to interact with the dashboard.
